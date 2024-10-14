@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078808737544",
+    "project_id": "wealth-wave-efae6",
+    "storage_bucket": "wealth-wave-efae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078808737544:android:b2326063724cb82af99ebd",
+        "android_client_info": {
+          "package_name": "com.example.wealthwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyb92dT_g7IU8_P7hfayREZduODsPTwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

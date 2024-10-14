@@ -4,6 +4,10 @@ import 'package:wealthwave/screens/splash_screen/splash_screen.dart';
 import '/responsive_builder.dart';
 import 'package:wealthwave/screens/login_page/login_screen.dart';
 
+//firebase integration
+import 'package:firebase_core/firebase_core.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+
 void main() {
   runApp(const MyApp());
 }
